@@ -66,10 +66,16 @@ Recovery Amount Trends helped assess financial risk and repayment performance.
 <img width="1029" height="505" alt="Model_view" src="https://github.com/user-attachments/assets/02378b9b-edaf-4df4-a6b6-c97df87b26c7" />
 
 ### Key Visuals
+1. summary cards
+<img width="1048" height="143" alt="cards" src="https://github.com/user-attachments/assets/3b56e27e-a1e7-4450-8f1d-5ba3a3ac3a89" />
+
+2. Loan Amount Funnel & Loan Amount Trend
 <img width="1044" height="448" alt="Loan_amount_funnel" src="https://github.com/user-attachments/assets/8c83cf21-1307-40af-afd2-05fa9083beff" />
 
+3. Top Products & Channel Distributions
 <img width="1054" height="401" alt="top_product" src="https://github.com/user-attachments/assets/707a0124-bdbd-415e-9356-f583d6564d84" />
 
+3. Branch Distributions
 <img width="1053" height="378" alt="Branch_distributions" src="https://github.com/user-attachments/assets/a7caeeaf-fca2-46f3-b85c-41c8d18844f5" />
 
 ### 🧠 Learnings & Skills Gained
